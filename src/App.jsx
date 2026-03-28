@@ -1,10 +1,10 @@
 import React from 'react'
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
-import Home from "./pages/Home";
-import Details from "./pages/Details";
-import Dash from "./pages/Dash"
-import Info from "./pages/Info";
-import Standard from "./pages/Standard"
+import Home from "./pages/Home.jsx";
+import Details from "./pages/Details.jsx";
+import Dash from "./pages/Dash.jsx";
+import Info from "./pages/Info.jsx";
+import Standard from "./pages/Standard.jsx";
 
 const App = () => {
   return (
